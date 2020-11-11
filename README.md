@@ -5,8 +5,8 @@ I recommend you to read the “Final Document” to have a more theoretical back
 ### The files:
 * Final_Documentation.pdf - a document that summaries the project.
 * X1.pkl, y1.pkl … X13.pkl, y13.pkl files – pickle files which contain the images’ numpy array and tags - These files not in the repository but you can create the files by the "create data.ipynb" file.
-* keywords.tsv000 - the dataset keywords.
-* photos.tsv000 - the photos information.
+* keywords.tsv000 - the dataset keywords (not in the repository).
+* photos.tsv000 - the photos information (not in the repository).
 * hashtag presentation.pdf.
 
 #### Models’ notebooks:
