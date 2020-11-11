@@ -3,11 +3,11 @@ This document organizes all the files related to the project.
 I recommend you to read the “Final Document” to have a more theoretical background about the project, the process, its results and future recommendation for further work.
 
 ### The files:
-* Final_Documentation.docx - a document that summaries the project.
+* Final_Documentation.pdf - a document that summaries the project.
 * X1.pkl, y1.pkl … X13.pkl, y13.pkl files – pickle files which contain the images’ numpy array and tags - These files not in the repository but you can create the files by the "create data.ipynb" file.
-* keywords.tsv000
-* photos.tsv000
-* hashtag presentation.pdf
+* keywords.tsv000 - the dataset keywords.
+* photos.tsv000 - the photos information.
+* hashtag presentation.pdf.
 
 #### Models’ notebooks:
 * create data.ipynb - create the data by converting each picture from the web - to array, and keep it in pickle files (only run once).
