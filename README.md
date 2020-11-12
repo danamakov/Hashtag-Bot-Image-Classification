@@ -34,6 +34,6 @@ https://t.me/Pic_hashtag_bot
 ### Links
 | Plugin | LINK |
 | ------ | ------ |
-| GitHub | https://github.com/danamakov/Hashtag-Bot__Image-Classification.git |
+| GitHub | https://github.com/danamakov/Hashtag-Bot-Image-Classification.git |
 | Telegram Bot | https://t.me/Pic_hashtag_bot |
 | Unsplash | https://unsplash.com/ |
